@@ -32,7 +32,7 @@ To install AmPower Visualize in your Frappe/ERPNext instance:
 1. **Clone and Install**:
 ```bash
 bench get-app <url-to-git-repository>
-bench install-app AmPower_visualize
+bench install-app ampower_visualize
 ```
 You can also follow [this](https://discuss.frappe.io/t/install-custom-app-from-github/23458) guide.
 
