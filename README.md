@@ -1,12 +1,12 @@
-# Ampower Visualize
+# AmPower Visualize
 
-Ampower Visualize is a powerful tool designed to enhance product traceability and visualize document relationships within your Frappe/ERPNext system. This application provides an interactive, zoomable, and draggable graph view of linked documents, allowing users to explore and understand complex document hierarchies with ease.
+AmPower Visualize is a powerful tool designed to enhance product traceability and visualize document relationships within your Frappe/ERPNext system. This application provides an interactive, zoomable, and draggable graph view of linked documents, allowing users to explore and understand complex document hierarchies with ease.
 
-Empower your business with clear, interactive document traceability using Ampower Visualize!
+Empower your business with clear, interactive document traceability using AmPower Visualize!
 
-## Why Ampower Visualize?
+## Why AmPower Visualize?
 
-This tool is built for users who deal with orders placed on a daily basis and often face challenges in tracing the status, quantities, or items within a Sales Order. Ampower Visualize bridges this gap by offering an intuitive, visual representation of linked documents, making it easier for businesses to streamline operations and improve traceability.
+This tool is built for users who deal with orders placed on a daily basis and often face challenges in tracing the status, quantities, or items within a Sales Order. AmPower Visualize bridges this gap by offering an intuitive, visual representation of linked documents, making it easier for businesses to streamline operations and improve traceability.
 
 It can be used for the following use-cases:
 
@@ -18,7 +18,7 @@ It can be used for the following use-cases:
 
 ## Requirements
 
-Before installing Ampower Visualize, ensure your environment meets the following minimum requirements:
+Before installing AmPower Visualize, ensure your environment meets the following minimum requirements:
 - **Frappe**: v15.33.0 (version-15)
 - **ERPNext**: v15.28.1 (version-15)
 - **NodeJS**: v18.20.5 (LTS)
@@ -27,12 +27,12 @@ Before installing Ampower Visualize, ensure your environment meets the following
 
 ### Installation
 
-To install Ampower Visualize in your Frappe/ERPNext instance:
+To install AmPower Visualize in your Frappe/ERPNext instance:
 
 1. **Clone and Install**:
 ```bash
 bench get-app <url-to-git-repository>
-bench install-app ampower_visualize
+bench install-app AmPower_visualize
 ```
 You can also follow [this](https://discuss.frappe.io/t/install-custom-app-from-github/23458) guide.
 
@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/a7f163af-ff5e-4380-9b52-4bca18440465
 
 ### Customizations:
 
-Ampower Visualize uses **D3.js**, a powerful JavaScript library, to render the interactive document graph. The library consumes JSON data from the backend and creates a graphical representation of the basis of this input.
+AmPower Visualize uses **D3.js**, a powerful JavaScript library, to render the interactive document graph. The library consumes JSON data from the backend and creates a graphical representation of the basis of this input.
 
 - Node colors and sizes vary by document type.
 - A legend helps users identify node types and their significance.
@@ -89,7 +89,7 @@ Ampower Visualize uses **D3.js**, a powerful JavaScript library, to render the i
 
 ## Future Scope
 
-Ampower Visualize has a range of planned enhancements to further improve its functionality and user experience:
+AmPower Visualize has a range of planned enhancements to further improve its functionality and user experience:
 
 1. **Enhanced Node Display**: Refine the UI to encapsulate document names and relevant fields within each node, providing clearer information at a glance.
 2. **Customizable Node Fields**: Introduce the ability to configure which document fields are displayed in each node, tailoring the visualization to specific needs.
