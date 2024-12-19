@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/a7f163af-ff5e-4380-9b52-4bca18440465
 - Constructs a JSON structure with `nodes` and `links` for D3.js.
 
 2. **`visualize_graph`**:
-- Builds the graph using D3.js:
+- Builds the graph using D3.js ([LICENSE](https://github.com/d3/d3/blob/main/LICENSE)):
   - **Nodes**: Represent documents (e.g., Sales Orders, Sales Invoices).
   - **Links**: Define relationships between documents.
 - Adds zoom, pan, and drag functionality for intuitive navigation.
