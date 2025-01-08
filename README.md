@@ -61,11 +61,11 @@ If you encounter issues during installation, try running the following series of
     - The link on each node can be clicked to navigate to that particular document in Frappe.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/a57cfc80-6bba-4ad0-b365-a39ec368df01)
+![image](https://github.com/user-attachments/assets/b3ef5308-a389-4ab8-863f-54f3298702af)
 
-![image](https://github.com/user-attachments/assets/db3e5e41-9bb2-4b27-aba2-9e13edc66873)
+![image](https://github.com/user-attachments/assets/20dbf210-437f-4f8e-9a88-de2080c89cca)
 
-https://github.com/user-attachments/assets/a7f163af-ff5e-4380-9b52-4bca18440465
+![gif](https://github.com/user-attachments/assets/0a3c3664-3fcc-4636-b721-2f567a68e127)
 
 ### Key functions:
 1. **`get_graph_data`**:
